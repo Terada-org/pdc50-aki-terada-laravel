@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PDC50-Laravel-Deployment-Terada'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2AC003DBED024F73BBB46672F9B54FBF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8167FED751CD44CDB515BB1D19399DC6 }}
           package: .
